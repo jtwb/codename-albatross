@@ -1,4 +1,6 @@
 # codename-albatross
+
+[![Join the chat at https://gitter.im/jtwb/codename-albatross](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jtwb/codename-albatross?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 It's broad and inclusive, get it?
 
 
